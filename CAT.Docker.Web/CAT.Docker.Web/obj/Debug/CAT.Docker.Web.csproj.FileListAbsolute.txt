@@ -1,0 +1,16 @@
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CAT.Docker.Web.dll.config
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CAT.Docker.Web.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CAT.Docker.Web.pdb
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\obj\Debug\CAT.Docker.Web.csprojAssemblyReference.cache
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\obj\Debug\CAT.Docker.Web.csproj.CoreCompileInputs.cache
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\obj\Debug\CAT.Docker.Web.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\obj\Debug\CAT.Docker.Web.pdb
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CrystalDecisions.ReportSource.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CrystalDecisions.Shared.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CrystalDecisions.Web.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\stdole.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\obj\Debug\CAT.Docker.Web.csproj.CopyComplete
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CAT.BusinessObject.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web\bin\CAT.BusinessObject.pdb

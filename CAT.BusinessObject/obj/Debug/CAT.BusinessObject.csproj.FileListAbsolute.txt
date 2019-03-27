@@ -1,0 +1,6 @@
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.BusinessObject\bin\Debug\CAT.BusinessObject.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.BusinessObject\bin\Debug\CAT.BusinessObject.pdb
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.BusinessObject\obj\Debug\CAT.BusinessObject.csproj.CoreCompileInputs.cache
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.BusinessObject\obj\Debug\CAT.BusinessObject.dll
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.BusinessObject\obj\Debug\CAT.BusinessObject.pdb
+D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.BusinessObject\obj\Debug\CAT.BusinessObject.csprojAssemblyReference.cache

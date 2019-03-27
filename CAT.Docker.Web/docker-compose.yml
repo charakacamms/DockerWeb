@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cat.docker.web:
+    image: ${DOCKER_REGISTRY-}catdockerweb
+    build:
+      context: .\CAT.Docker.Web
+      dockerfile: Dockerfile
