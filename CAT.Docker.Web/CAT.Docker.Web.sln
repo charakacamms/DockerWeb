@@ -34,16 +34,4 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9429071C-AF99-4C66-8792-B2E2FC8A1275}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://slsvr19:8080/tfs/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = CAT.Docker.Web\\CAT.Docker.Web.csproj
-		SccProjectName1 = CAT.Docker.Web
-		SccLocalPath1 = CAT.Docker.Web
-		SccProjectUniqueName2 = ..\\CAT.BusinessObject\\CAT.BusinessObject.csproj
-		SccProjectName2 = ../CAT.BusinessObject
-		SccLocalPath2 = ..\\CAT.BusinessObject
-	EndGlobalSection
 EndGlobal

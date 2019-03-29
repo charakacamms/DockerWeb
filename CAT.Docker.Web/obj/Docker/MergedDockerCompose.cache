@@ -5,9 +5,10 @@ networks:
 services:
   cat.docker.web:
     build:
-      context: D:\CAMMS\CAMMS_Products\_Feature\Docker\CAT.Docker.Web\CAT.Docker.Web
+      context: C:\Projects\Test\CAT.Docker.Web
       dockerfile: Dockerfile
     image: catdockerweb
     ports:
-    - target: 80
+    - published: 9085
+      target: 8085
 version: '3.4'

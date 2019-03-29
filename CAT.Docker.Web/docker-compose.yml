@@ -4,5 +4,5 @@ services:
   cat.docker.web:
     image: ${DOCKER_REGISTRY-}catdockerweb
     build:
-      context: .\CAT.Docker.Web
+      context: .
       dockerfile: Dockerfile
